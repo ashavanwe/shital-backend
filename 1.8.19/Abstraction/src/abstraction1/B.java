@@ -4,7 +4,7 @@ public class B  extends A
 {
 public void m3()
 {
-System.out.println("m3");	
+System.out.println("m3---Ashu");	
 }
 public static void main(String[] args)
 {
