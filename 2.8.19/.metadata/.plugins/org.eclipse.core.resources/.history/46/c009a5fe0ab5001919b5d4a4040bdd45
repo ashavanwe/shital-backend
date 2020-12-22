@@ -1,0 +1,13 @@
+package InterfaceRBI;
+
+public class SBI implements RBI
+{
+
+	@Override
+	public int interestRate()
+	{
+		int q=20;
+		return q;
+	}
+
+}
